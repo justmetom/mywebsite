@@ -1,6 +1,18 @@
 
 body {background-color:lightskyblue;
 }
+div.first{
+    opacity:0.6;
+}
+div.second{
+    opacity:0.3;
+}
+div.third{
+    opacity:0.1;
+}
+
+
+
 h1{ text-align:center}
 h2{text-align: center;}
 h1{
@@ -8,6 +20,8 @@ font-size: 60px;
 } 
 h2{
 font-size:50px;
+} 
+div {  
+text-align: center;
 }
 
-p1{text-align:center;}
